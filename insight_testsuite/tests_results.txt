@@ -1,0 +1,11 @@
+Processed 6 lines in 0.004606 sec
+[PASS]: test_1 top_cost_drug.txt
+Processed 100000 lines in 2.678412 sec
+[PASS]: test_100k top_cost_drug.txt
+Processed 10000 lines in 0.284796 sec
+[PASS]: test_10k top_cost_drug.txt
+Processed 6 lines in 0.009194 sec
+[PASS]: test_2 top_cost_drug.txt
+Processed 500000 lines in 12.910572 sec
+[PASS]: test_500k top_cost_drug.txt
+[Thu, Aug 02, 2018  3:58:30 PM] 5 of 5 tests passed

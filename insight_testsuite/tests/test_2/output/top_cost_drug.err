@@ -1,0 +1,5 @@
+id,prescriber_last_name,prescriber_first_name,drug_name,drug_cost
+1,ANNA,JONES,,1000
+1,ANNA,SELLER,100000000
+1000000013,JOE,KING,PAIN-KILLER,$1000
+1000000013,DAVID,PATIENT, PAIN-KILLER,1000$
